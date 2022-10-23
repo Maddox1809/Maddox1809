@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maddox1809
 - 👀 I’m interested in programming, AI, algos, ...
-- 🌱 I’m currently learning C in 42 School (Piscine)
+- 🌱 I’m currently learning C in 42 School (Student)
 
 <!---
 Maddox1809/Maddox1809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
